@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarpanNeve&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Graph:
-[![Darpan Neve's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DarpanNeve&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DarpanNeve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarpanNeve&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarpanNeve&theme=radical&no-frame=false&no-bg=false&margin-w=4)
