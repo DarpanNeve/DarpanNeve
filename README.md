@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @DarpanNeve<br>- 👀 I’m interested in Technology like Flutter, Firebase, Chatgpt, Server<br>- 🌱 I’m currently learning Flutter<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
+- 👋 Hi, I’m @DarpanNeve<br>- 👀 I’m interested in Technology like Flutter, Firebase, Chatgpt, and Server<br>- 🌱 I’m currently learning Flutter, Firebase, Appwrite<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darpan-neve-990aa3229/) 
