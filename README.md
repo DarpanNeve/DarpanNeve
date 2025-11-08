@@ -4,6 +4,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darpan-neve/) <br/>
 
+## ☕ Support Me:
+<a href="https://buymeacoffee.com/darpannevew" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <br/>
+
 
 # Languauge Stats:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarpanNeve&theme=dark&hide_border=false)](https://github.com/DarpanNeve/github-readme-stats)<br/>
